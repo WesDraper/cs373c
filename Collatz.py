@@ -2,7 +2,7 @@
 
 # ---------------------------
 # projects/collatz/Collatz.py
-# Copyright (C) 2015
+# Copyright (C) 2016
 # Glenn P. Downing
 # ---------------------------
 
